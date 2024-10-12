@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = JWTauth
+build_property.ProjectDir = C:\Users\yusuf\Documents\GitHub\jwtauth_net_core\JwtAuthNoDb\JWTauth\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
